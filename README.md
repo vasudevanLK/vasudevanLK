@@ -2,8 +2,8 @@
 
 Software Engineer.>..
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://vasudevan-fb3a1.web.app/)                                                 
-- 🌱 I’m currently learning DSA
+- 🔭 Here's my [portfolio](https://vasudevan-07.web.app/)                                                 
+- 🌱 I’m currently working on SmallScale Application
 - 👯 I’m looking to collaborate on FullStack
 - 🤔 I’m looking for a challenging Job
 - 💬 Ask me about Tech
